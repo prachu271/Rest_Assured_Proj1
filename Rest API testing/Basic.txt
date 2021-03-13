@@ -13,4 +13,8 @@ io Rest-Assured
 	d. testng
 2. Save ( after saving maven will automatically download the dependencies jar file in project).
 
+BDD - Behavioral driven development approach
+1. given- something like pre requisite
+2. when- when we perform some operation
+3. then- then for validation of result i.e. outcome of operation
 

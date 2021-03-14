@@ -5,7 +5,7 @@
     <classes>
       <class name="getting_started.NewTest1">
         <methods>
-          <include name="firstGetRequest"/>
+          <include name="firstJsonResponse"/>
         </methods>
       </class> <!-- getting_started.NewTest1 -->
     </classes>

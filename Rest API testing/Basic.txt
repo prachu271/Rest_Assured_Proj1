@@ -18,3 +18,7 @@ BDD - Behavioral driven development approach
 2. when- when we perform some operation
 3. then- then for validation of result i.e. outcome of operation
 
+
+To validate body items: import static org.hamcrest.Matchers.*;
+
+

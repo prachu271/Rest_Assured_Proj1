@@ -15,5 +15,3 @@ io Rest-Assured
 	c. xmlpath
 	d. testng
 2. Save ( after saving maven will automatically download the dependencies jar file in project).
-
-test

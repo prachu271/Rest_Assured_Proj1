@@ -16,4 +16,4 @@ io Rest-Assured
 	d. testng
 2. Save ( after saving maven will automatically download the dependencies jar file in project).
 
-
+test
